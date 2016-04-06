@@ -2,40 +2,40 @@
 The Mac apps I use everyday
 
 ### Basic Tools
-[Google Chrome](https://www.google.com)
+[Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 
-[Firefox](https://www.google.com)
+[Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-[1Password](https://www.google.com)
+[1Password](https://1password.com/)
 
-[Alfred](https://www.google.com)
+[Alfred](https://www.alfredapp.com)
 
-[Xtra Finder](https://www.google.com)
+[Xtra Finder](https://www.trankynam.com/xtrafinder/)
 
-[Sunrise Calendar](https://www.google.com)
+[Sunrise Calendar](https://calendar.sunrise.am/)
 
-[Helium](https://www.google.com)
+[Helium](https://itunes.apple.com/us/app/helium/id1054607607?mt=12)
 
-[Skype](https://www.google.com)
+[Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
 
 ### Dev Tools
-[Adobe Brackets](https://www.google.com)
+[Adobe Brackets](https://github.com/adobe/brackets/releases)
 
-[Sublime Text](https://www.google.com)
+[Sublime Text](https://www.sublimetext.com/3)
 
-[MAMP](https://www.google.com)
+[MAMP](https://www.mamp.info/)
 
-[Source Tree](https://www.google.com)
+[Source Tree](https://www.sourcetreeapp.com/)
 
-[Anvil](https://www.google.com)
+[Anvil](http://anvilformac.com/)
 
-[Emmet Lifestyle](https://www.google.com)
+[Emmet Lifestyle](http://livestyle.io)
 
-[Emmet Re:view](https://www.google.com)
+[Emmet Re:view](http://re-view.emmet.io/)
 
 ### Design Tools
-[Adobe](https://www.google.com)
+[Adobe](https://www.adobe.com)
 
-[Sketch](https://www.google.com)
+[Sketch](https://www.sketchapp.com)
 
-[Craft Manager](https://www.google.com)
+[Craft Manager](https://www.invisionapp.com/craft)
