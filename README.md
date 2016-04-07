@@ -8,7 +8,7 @@ The Mac apps I use everyday
 
 [1Password](https://1password.com/)
 
-[Alfred](https://www.alfredapp.com)
+[Alfred](https://www.alfredapp.com) - The workflows I used [Download](https://pan.baidu.com/s/1nv8Hrkt) 
 
 [Xtra Finder](https://www.trankynam.com/xtrafinder/)
 
