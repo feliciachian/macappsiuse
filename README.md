@@ -1,7 +1,7 @@
 # The apps I use on my Macbook 
 The Mac apps I use everyday
 
-### Basic Tools
+## Basic Tools
 ####[Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html) and [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Free)
 My favourite web browser.
 
@@ -25,7 +25,9 @@ Floating browser window for your Mac.
 ####[Clean My Mac](http://macpaw.com/cleanmymac)($39.95)
 It help you to remove all the junk files in your Mac.Very usefull. If you have a better option do let me know.
 
-### Dev Tools
+
+
+## Dev Tools
 ####[Adobe Brackets](https://github.com/adobe/brackets/releases)(Free)
 The best free text editor at this moments.
 
@@ -50,7 +52,9 @@ Displaying responsive web-pages in a side-by-side views to quickly test how it l
 ####[Smaller](http://25.io/smaller/) (Trial for 30 days)
 Compress and combine your HTML,CSS and js files.
 
-### Design Tools
+
+
+## Design Tools
 ####[Adobe](https://www.adobe.com)
 Photoshop and Illustrator.
 
