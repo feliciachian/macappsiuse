@@ -2,63 +2,63 @@
 The Mac apps I use everyday
 
 ## Basic Tools
-####[Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html) and [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Free)
+### [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html) and [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Free)
 My favourite web browser.
 
-####[1Password](https://1password.com/)($64.99)
+### [1Password](https://1password.com/)($64.99)
 Password manager. Manage all your web account, credit card information and etc in your multiple devices with a single click.
 
-####[Alfred](https://www.alfredapp.com) - The workflows I used [Download](https://pan.baidu.com/s/1nv8Hrkt) 
+### [Alfred](https://www.alfredapp.com) - The workflows I used [Download](https://pan.baidu.com/s/1nv8Hrkt) 
 Productivity app for your Mac. This is more than just a quick app launcher. With the workflows, it can be much more powerful than you think!
 
-####[Xtra Finder](https://www.trankynam.com/xtrafinder/)(Free)
-Make your Finder more powerful. Cut & Paste the files, dual panel, arrange folder at top, colorful icons in sidebar........
+### [Google Calendar](https://calendar.google.com/)(Free)
+A free calendar by Google. I use this for time blocking to stay more productive. 
 
-####[Sunrise Calendar](https://calendar.sunrise.am/)(Free)
-A free calendar app made for Google Calendar, iCloud and Exchange. Available on Desktop, iPhone, iPad and Android. I use this for my daily task management tools. 
-
-####[Helium](http://jadengeller.github.io/Helium/)(Free)
+### [Helium](http://jadengeller.github.io/Helium/)(Free)
 Floating browser window for your Mac.
 
-####[Skype](https://www.skype.com/en/download-skype/skype-for-computer/)(Free)
+### [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)(Free)
 
-####[Clean My Mac](http://macpaw.com/cleanmymac)($39.95)
-It help you to remove all the junk files in your Mac.Very usefull. If you have a better option do let me know.
+### [Clean My Mac X](http://macpaw.com/cleanmymac)($39.95)
+It helps you to remove all the junk files in your Mac.
 
+### [IINA](https://iina.io/)(Free)
+Open Source video player. Clean and good user interface. 
 
 
 ## Dev Tools
-####[Adobe Brackets](https://github.com/adobe/brackets/releases)(Free)
-The best free text editor at this moments.
+### [Visual Studio Code](https://code.visualstudio.com/)(Free)
+An open source code editor develop by Microsoft.
 
-####[Sublime Text](https://www.sublimetext.com/3)($70/Free)
-A Text editor.Using Sublime text for many years. It has unlimited free trial version, but if you can afford this
-
-####[MAMP](https://www.mamp.info/)(Free)
+### [MAMP](https://www.mamp.info/)(Free)
 If you need to setup a localhost for your web project. I recommend MAMP. I have been using this for many years,it is the best one for Mac.  
 
-####[Source Tree](https://www.sourcetreeapp.com/) (Free)
+### [Source Tree](https://www.sourcetreeapp.com/) (Free)
 A free Mercurial and Git Client for Windows and Mac that provides a graphical interface for your Hg and Git repositories.
 
-####[Anvil](http://anvilformac.com/) (Free)
+### [Anvil](http://anvilformac.com/) (Free)
 Anvil takes your site and serves it up locally with a .dev URL. You can now access your localhost web project from any devices.
 
-####[Emmet Lifestyle](http://livestyle.io) (Free)
+### [Emmet Lifestyle](http://livestyle.io) (Free)
 Similar to LiveReload but with Lifestyle you cna edit the CSS code in your browser, and it will automatically refresh in your files. 
 
-####[Emmet Re:view](http://re-view.emmet.io/) (Free)
+### [Emmet Re:view](http://re-view.emmet.io/) (Free)
 Displaying responsive web-pages in a side-by-side views to quickly test how it looks at different resolutions and devices.
 
-####[Smaller](http://25.io/smaller/) (Trial for 30 days)
+### [Smaller](http://25.io/smaller/) (Trial for 30 days)
 Compress and combine your HTML,CSS and js files.
+
+### [iTerm](https://iterm2.com/)(Free)
+With [Snazzy Color Theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Snazzy.itermcolors) + [Pure Prompt](https://github.com/sindresorhus/pure)
 
 
 
 ## Design Tools
-####[Adobe](https://www.adobe.com)
+### [Adobe](https://www.adobe.com)
 Photoshop and Illustrator.
 
-####[Sketch](https://www.sketchapp.com) ($99)
+### [Sketch](https://www.sketchapp.com) ($99)
 
-####[Craft Manager](https://www.invisionapp.com/craft) (Free)
+### [Craft Manager](https://www.invisionapp.com/craft) (Free)
+
 
