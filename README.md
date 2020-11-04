@@ -45,9 +45,6 @@ Similar to LiveReload but with Lifestyle you cna edit the CSS code in your brows
 ### [Emmet Re:view](http://re-view.emmet.io/) (Free)
 Displaying responsive web-pages in a side-by-side views to quickly test how it looks at different resolutions and devices.
 
-### [Smaller](http://25.io/smaller/) (Trial for 30 days)
-Compress and combine your HTML,CSS and js files.
-
 ### [iTerm](https://iterm2.com/)(Free)
 With [Snazzy Color Theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Snazzy.itermcolors) + [Pure Prompt](https://github.com/sindresorhus/pure)
 
@@ -58,7 +55,7 @@ With [Snazzy Color Theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob
 Photoshop and Illustrator.
 
 ### [Sketch](https://www.sketchapp.com) ($99)
-
+### [Figma](https://www.figma.com) 
 ### [Craft Manager](https://www.invisionapp.com/craft) (Free)
 
 
