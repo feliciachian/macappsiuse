@@ -58,4 +58,5 @@ Photoshop and Illustrator.
 ### [Figma](https://www.figma.com) 
 ### [Craft Manager](https://www.invisionapp.com/craft) (Free)
 
-
+## Fun stuff
+### [edex-ui](https://github.com/GitSquared/edex-ui)
