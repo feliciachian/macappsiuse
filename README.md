@@ -1,21 +1,18 @@
 # The apps I use on my Macbook 
 The Mac apps I use everyday
 
-## Basic Tools
-### [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html) and [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Free)
-My favourite web browser.
+Basic Tools
+------
+* [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html) and [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Free)
 
-### [1Password](https://1password.com/)($64.99)
-Password manager. Manage all your web account, credit card information and etc in your multiple devices with a single click.
+* [1Password](https://1password.com/)($64.99) - Password manager. Manage all your web account, credit card information and etc in your multiple devices with a single click.
 
-### [Alfred](https://www.alfredapp.com) - The workflows I used [Download](https://pan.baidu.com/s/1nv8Hrkt) 
+* [Alfred](https://www.alfredapp.com) - The workflows I used [Download](https://pan.baidu.com/s/1nv8Hrkt) 
 Productivity app for your Mac. This is more than just a quick app launcher. With the workflows, it can be much more powerful than you think!
 
-### [Google Calendar](https://calendar.google.com/)(Free)
-A free calendar by Google. I use this for time blocking to stay more productive. 
+* [Google Calendar](https://calendar.google.com/)(Free) - A free calendar by Google. I use this for time blocking to stay more productive. 
 
-### [Helium](http://jadengeller.github.io/Helium/)(Free)
-Floating browser window for your Mac.
+* [Helium](http://jadengeller.github.io/Helium/)(Free) - Floating browser window for your Mac.
 
 ### [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)(Free)
 
