@@ -1,5 +1,5 @@
-# The apps I use on my Macbook 
-The Mac apps I use everyday
+<h1 align="center">The apps I use on my Macbook </h1>
+> The Mac apps I use everyday
 
 Basic Tools
 ------
