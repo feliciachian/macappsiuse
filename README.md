@@ -1,5 +1,5 @@
 <h1 align="center">The apps I use on my Macbook </h1>
-> The Mac apps I use everyday
+<blockquote> The Mac apps I use everyday.</blockquote>
 
 Basic Tools
 ------
